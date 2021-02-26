@@ -12,5 +12,4 @@ System.out.println();
 		tc01();
 		
 	}
-
 }
